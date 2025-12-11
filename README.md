@@ -3,8 +3,8 @@
   <img src="https://i.imgur.com/5QZ0QZB.jpeg" width="100%" alt="banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Ak 👋</h1>
-<h3 align="center">Big Data Engineer • Story Architect • GenAI Explorer</h3>
+<h1 align="center">Hi, I'm Aakash 👋</h1>
+<h3 align="center">Big Data Engineer • GenAI Explorer</h3>
 
 
 <!--
