@@ -1,4 +1,11 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/5QZ0QZB.jpeg" width="100%" alt="banner"/>
+</p>
+
+<h1 align="center">Hi, I'm Ak 👋</h1>
+<h3 align="center">Big Data Engineer • Story Architect • GenAI Explorer</h3>
+
 
 <!--
 **aakashr1712/aakashr1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
